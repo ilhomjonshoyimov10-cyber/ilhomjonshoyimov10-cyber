@@ -3,7 +3,7 @@
 **AI and Python developer.** I build LLM applications (agents, RAG, chatbots) and deep learning models,
 and ship them as working products with tests, Docker, CI and live demos.
 
-🇺🇿 AI va Python dasturchisi: LLM ilovalari (agentlar, RAG, chatbotlar) va deep learning modellarini yarataman
+**O'zbekcha:** AI va Python dasturchisi: LLM ilovalari (agentlar, RAG, chatbotlar) va deep learning modellarini yarataman
 hamda ularni test, Docker va CI bilan ishlaydigan mahsulotga aylantiraman.
 
 📫 ilhomjonshoyimov10@gmail.com
